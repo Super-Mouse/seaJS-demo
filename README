@@ -1,0 +1,4 @@
+RequireJS 2.3.5
+运行： gulp requireJS-demo
+
+console：c d b a entry
